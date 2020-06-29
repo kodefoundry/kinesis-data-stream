@@ -1,0 +1,6 @@
+vpc_name = "vpc-kintel"
+cidr_blocks = "10.0.4.0/24"
+region = "eu-central-1"
+subnet_bits = "8"
+aws_access_key = ""
+aws_secret_key = ""
